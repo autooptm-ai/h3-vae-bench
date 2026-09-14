@@ -1,0 +1,7 @@
+torch
+numpy
+av
+huggingface_hub
+transformers
+accelerate
+diffusers @ git+https://github.com/huggingface/diffusers.git@d5baa4fb548294f47dbca49890abd4b291204c60
